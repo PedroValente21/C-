@@ -1,0 +1,10 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\obj\Debug\Somabásica.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\obj\Debug\Somabásica.Form1.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\obj\Debug\Somabásica.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\obj\Debug\Somabásica.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\obj\Debug\Somabásica.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\bin\Debug\Somabásica.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\bin\Debug\Somabásica.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\bin\Debug\Somabásica.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\obj\Debug\Somabásica.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Somabásica\Somabásica\obj\Debug\Somabásica.pdb

@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\bin\Debug\net8.0\Fila&Pilha.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\bin\Debug\net8.0\Fila&Pilha.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\bin\Debug\net8.0\Fila&Pilha.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\bin\Debug\net8.0\Fila&Pilha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\bin\Debug\net8.0\Fila&Pilha.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\Fila&Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\Fila&Pilha.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\Fila&Pilha.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\Fila&Pilha.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\Fila&Pilha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\refint\Fila&Pilha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\Fila&Pilha.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\Fila&Pilha.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Fila&Pilha\Fila&Pilha\obj\Debug\net8.0\ref\Fila&Pilha.dll

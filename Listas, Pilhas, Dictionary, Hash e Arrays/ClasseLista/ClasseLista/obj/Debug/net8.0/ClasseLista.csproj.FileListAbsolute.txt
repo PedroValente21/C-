@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\bin\Debug\net8.0\ClasseLista.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\bin\Debug\net8.0\ClasseLista.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\bin\Debug\net8.0\ClasseLista.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\bin\Debug\net8.0\ClasseLista.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\bin\Debug\net8.0\ClasseLista.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ClasseLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ClasseLista.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ClasseLista.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ClasseLista.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ClasseLista.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\refint\ClasseLista.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ClasseLista.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ClasseLista.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClasseLista\ClasseLista\obj\Debug\net8.0\ref\ClasseLista.dll
