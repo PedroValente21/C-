@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\ClassePessoa\\ClassePessoa\\ClassePessoa.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\POO\\ClassePessoa\\ClassePessoa\\ClassePessoa.csproj",
       "projectName": "ClassePessoa",
-      "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\ClassePessoa\\ClassePessoa\\ClassePessoa.csproj",
+      "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\POO\\ClassePessoa\\ClassePessoa\\ClassePessoa.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\ClassePessoa\\ClassePessoa\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\POO\\ClassePessoa\\ClassePessoa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
