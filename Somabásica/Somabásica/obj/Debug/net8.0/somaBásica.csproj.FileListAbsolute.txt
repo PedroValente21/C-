@@ -1,7 +1,0 @@
-C:\Users\pedro\OneDrive\Área de Trabalho\C#\somaBásica\somaBásica\obj\Debug\net8.0\Somabásica.Form1.resources
-C:\Users\pedro\OneDrive\Área de Trabalho\C#\somaBásica\somaBásica\obj\Debug\net8.0\somaBásica.Properties.Resources.resources
-C:\Users\pedro\OneDrive\Área de Trabalho\C#\somaBásica\somaBásica\obj\Debug\net8.0\somaBásica.csproj.GenerateResource.cache
-C:\Users\pedro\OneDrive\Área de Trabalho\C#\somaBásica\somaBásica\obj\Debug\net8.0\somaBásica.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pedro\OneDrive\Área de Trabalho\C#\somaBásica\somaBásica\obj\Debug\net8.0\somaBásica.AssemblyInfoInputs.cache
-C:\Users\pedro\OneDrive\Área de Trabalho\C#\somaBásica\somaBásica\obj\Debug\net8.0\somaBásica.AssemblyInfo.cs
-C:\Users\pedro\OneDrive\Área de Trabalho\C#\somaBásica\somaBásica\obj\Debug\net8.0\somaBásica.csproj.CoreCompileInputs.cache
