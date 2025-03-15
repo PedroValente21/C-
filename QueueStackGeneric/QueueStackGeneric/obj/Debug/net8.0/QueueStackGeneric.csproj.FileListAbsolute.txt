@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\bin\Debug\net8.0\QueueStackGeneric.exe
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\bin\Debug\net8.0\QueueStackGeneric.deps.json
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\bin\Debug\net8.0\QueueStackGeneric.runtimeconfig.json
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\bin\Debug\net8.0\QueueStackGeneric.dll
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\bin\Debug\net8.0\QueueStackGeneric.pdb
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\QueueStackGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\QueueStackGeneric.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\QueueStackGeneric.AssemblyInfo.cs
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\QueueStackGeneric.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\QueueStackGeneric.dll
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\refint\QueueStackGeneric.dll
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\QueueStackGeneric.pdb
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\QueueStackGeneric.genruntimeconfig.cache
+C:\Users\pedro\source\repos\QueueStackGeneric\QueueStackGeneric\obj\Debug\net8.0\ref\QueueStackGeneric.dll

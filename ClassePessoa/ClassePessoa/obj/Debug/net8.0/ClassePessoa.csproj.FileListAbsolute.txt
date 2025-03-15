@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\bin\Debug\net8.0\ClassePessoa.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\bin\Debug\net8.0\ClassePessoa.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\bin\Debug\net8.0\ClassePessoa.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\bin\Debug\net8.0\ClassePessoa.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\bin\Debug\net8.0\ClassePessoa.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ClassePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ClassePessoa.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ClassePessoa.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ClassePessoa.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ClassePessoa.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\refint\ClassePessoa.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ClassePessoa.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ClassePessoa.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ClassePessoa\ClassePessoa\obj\Debug\net8.0\ref\ClassePessoa.dll

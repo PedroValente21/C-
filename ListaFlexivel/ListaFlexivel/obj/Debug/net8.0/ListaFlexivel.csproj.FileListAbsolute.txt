@@ -1,0 +1,4 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ListaFlexivel\ListaFlexivel\obj\Debug\net8.0\ListaFlexivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ListaFlexivel\ListaFlexivel\obj\Debug\net8.0\ListaFlexivel.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ListaFlexivel\ListaFlexivel\obj\Debug\net8.0\ListaFlexivel.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\ListaFlexivel\ListaFlexivel\obj\Debug\net8.0\ListaFlexivel.csproj.CoreCompileInputs.cache
