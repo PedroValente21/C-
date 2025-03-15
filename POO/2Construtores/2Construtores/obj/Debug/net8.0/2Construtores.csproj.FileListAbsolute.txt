@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\bin\Debug\net8.0\2Construtores.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\bin\Debug\net8.0\2Construtores.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\bin\Debug\net8.0\2Construtores.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\bin\Debug\net8.0\2Construtores.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\bin\Debug\net8.0\2Construtores.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.sourcelink.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\refint\2Construtores.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\2Construtores.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\2Construtores\2Construtores\obj\Debug\net8.0\ref\2Construtores.dll
