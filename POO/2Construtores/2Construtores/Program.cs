@@ -7,12 +7,12 @@ class Produto
     private int quantidade, id;
     private double preco;
 
-    private static int contador;
+    public static int contador;
 
     public Produto (string descricao, int quantidade, double preco)
     {
         this.id = ++Produto.contador;
-
+   
         this.descricao = descricao;
         this.quantidade = quantidade;
         this.preco = preco;
@@ -52,11 +52,12 @@ class Program
 {
     static void Main(string[] args)
     {
+        
         Produto produto1 = new Produto();
         Produto produto2 = new Produto("Kyrie Eleison", 10000, 100);
 
         Console.WriteLine("Produto criado com construtor padrão:\n{0}\n{1}\n{2}\n{3}", 
-            produto1.Desricao, produto1.Quantidade, produto1.Preco, produto1.Id);
+            produto1.Desricao, produto1.Quantidade, produto1.Preco, Produto.contador);
 
         Console.WriteLine("Produto criado com construtor especifico:\n{0}\n{1}\n{2}\n{3}",
             produto2.Desricao, produto2.Quantidade, produto2.Preco, produto2.Id);

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\C#\\Conta\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\C#\\POO\\Conta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{505471CA-D891-4955-B44C-6523F2B1F31F}|Conta\\Conta.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\c#\\conta\\conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{505471CA-D891-4955-B44C-6523F2B1F31F}|Conta\\Conta.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\c#\\poo\\conta\\conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{505471CA-D891-4955-B44C-6523F2B1F31F}|Conta\\Conta.csproj|solutionrelative:conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\C#\\Conta\\Conta\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\C#\\POO\\Conta\\Conta\\Program.cs",
               "RelativeDocumentMoniker": "Conta\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\C#\\Conta\\Conta\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\C#\\POO\\Conta\\Conta\\Program.cs",
               "RelativeToolTip": "Conta\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:48:34.462Z",
               "EditorCaption": ""
