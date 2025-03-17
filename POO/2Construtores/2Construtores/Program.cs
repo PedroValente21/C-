@@ -57,7 +57,7 @@ class Program
         Produto produto2 = new Produto("Kyrie Eleison", 10000, 100);
 
         Console.WriteLine("Produto criado com construtor padrão:\n{0}\n{1}\n{2}\n{3}", 
-            produto1.Desricao, produto1.Quantidade, produto1.Preco, Produto.contador);
+            produto1.Desricao, produto1.Quantidade, produto1.Preco, produto1.Id);
 
         Console.WriteLine("Produto criado com construtor especifico:\n{0}\n{1}\n{2}\n{3}",
             produto2.Desricao, produto2.Quantidade, produto2.Preco, produto2.Id);
