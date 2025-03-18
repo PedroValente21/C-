@@ -13,18 +13,18 @@ class Produto
     {
         this.id = ++Produto.contador;
    
-        this.descricao = descricao;
-        this.quantidade = quantidade;
-        this.preco = preco;
+        Descricao = descricao;
+        Quantidade = quantidade;
+        Preco = preco;
     }
 
     public Produto()
     {
         this.id = ++Produto.contador;
 
-        this.descricao = "Criado default";
-        this.quantidade = 10;
-        this.preco = 9.99;
+        Descricao = "Criado default";
+        Quantidade = 10;
+        Preco = 9.99;
     }
 
     public int Id { get { return id; } }
@@ -44,7 +44,7 @@ class Produto
     public int Quantidade
     {
         get { return quantidade; }
-        set { if (value > 0) { preco = value; } else { Console.WriteLine("Quantidade inválida"); } }
+        set { if (value > 0) { quantidade = value; } else { Console.WriteLine("Quantidade inválida"); } }
     }
  }
 
