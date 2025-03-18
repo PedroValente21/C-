@@ -27,58 +27,26 @@ class Produto
         this.preco = 9.99;
     }
 
-    public int GetId()
+    public int Id { get { return id; } }
+
+    public double Preco
     {
-        return id;
+        get { return preco; }
+        set { if (value > 0) { preco = value; } else { Console.WriteLine("Valor inválido"); } }
     }
 
-    public double GetPreco()
+    public string Descricao
     {
-        return preco;
+        get { return descricao; }
+        set { if (value.Length > 3) { descricao = value; } else { Console.WriteLine("Descrição muito curta"); } }
     }
 
-    public void SetPreco(double valor)
+    public int Quantidade
     {
-        if (valor > 0)
-        {
-            preco = valor;
-            Console.WriteLine("");
-        } else
-        {
-            Console.WriteLine("Valor inválido");
-            Console.WriteLine("");
-        }
+        get { return quantidade; }
+        set { if (value > 0) { preco = value; } else { Console.WriteLine("Quantidade inválida"); } }
     }
-
-    public string GetDescricao()
-    {
-        return descricao;
-    }
-
-    public void SetDescricao(string info)
-    {
-        descricao = info;
-    }
-
-    public int GetQuantidade()
-    {
-        return quantidade;
-    }
-
-    public void SetQuantidade(int valor)
-    {
-        if (valor > 0)
-        {
-            quantidade = valor;
-            Console.WriteLine("");
-        }
-        else
-        {
-            Console.WriteLine("Valor inválido");
-            Console.WriteLine("");
-        }
-    }
-}
+ }
 
 class Program
 {
@@ -89,12 +57,19 @@ class Program
         Produto produto2 = new Produto("Kyrie Eleison", 10000, 100);
 
         Console.WriteLine("Produto criado com construtor padrão:\n{0}\n{1}\n{2}\n{3}", 
-            produto1.GetDescricao(), produto1.GetQuantidade(), produto1.GetPreco(), produto1.GetId());
+            produto1.Descricao, produto1.Quantidade, produto1.Preco, produto1.Id);
         Console.WriteLine("");
 
         Console.WriteLine("Produto criado com construtor especifico:\n{0}\n{1}\n{2}\n{3}",
-            produto2.GetDescricao(), produto2.GetQuantidade(), produto2.GetPreco(), produto2.GetId());
+            produto2.Descricao, produto2.Quantidade, produto2.Preco, produto2.Id);
         Console.WriteLine("");
+
+        Console.WriteLine("Insira novo preço para o produto 2: ");
+        double valor = double.Parse(Console.ReadLine());
+        produto2.Preco = valor;
+
+        Console.WriteLine("Produto 2:\n{0}\n{1}\n{2}\n{3}",
+           produto2.Descricao, produto2.Quantidade, produto2.Preco, produto2.Id);
 
     }
 }
