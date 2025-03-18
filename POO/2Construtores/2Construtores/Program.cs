@@ -37,14 +37,27 @@ class Produto
         get { return this.quantidade; }
     }
 
-    public double Preco
-    {
-        get { return this.preco; }
-    }
-
     public int Id
     {
         get { return this.id; }
+    }
+
+    public double GetPreco()
+    {
+        return preco;
+    }
+
+    public void SetPreco(double valor)
+    {
+        if (valor > 0)
+        {
+            preco = valor;
+            Console.WriteLine("");
+        } else
+        {
+            Console.WriteLine("Valor inválido");
+            Console.WriteLine("");
+        }
     }
 }
 
@@ -57,10 +70,18 @@ class Program
         Produto produto2 = new Produto("Kyrie Eleison", 10000, 100);
 
         Console.WriteLine("Produto criado com construtor padrão:\n{0}\n{1}\n{2}\n{3}", 
-            produto1.Desricao, produto1.Quantidade, produto1.Preco, produto1.Id);
+            produto1.Desricao, produto1.Quantidade, produto1.GetPreco(), produto1.Id);
+        Console.WriteLine("");
 
         Console.WriteLine("Produto criado com construtor especifico:\n{0}\n{1}\n{2}\n{3}",
-            produto2.Desricao, produto2.Quantidade, produto2.Preco, produto2.Id);
+            produto2.Desricao, produto2.Quantidade, produto2.GetPreco(), produto2.Id);
+        Console.WriteLine("");
+
+        Console.WriteLine("Insira novo preço para o produto 2: ");
+        double valor = double.Parse(Console.ReadLine());
+        produto2.SetPreco(valor);
+        Console.WriteLine("Produto 2:\n{0}\n{1}\n{2}\n{3}",
+            produto2.Desricao, produto2.Quantidade, produto2.GetPreco(), produto2.Id);
 
     }
 }
