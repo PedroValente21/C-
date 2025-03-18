@@ -27,19 +27,9 @@ class Produto
         this.preco = 9.99;
     }
 
-    public string Desricao
+    public int GetId()
     {
-        get { return this.descricao; }
-    }
-
-    public int Quantidade
-    {
-        get { return this.quantidade; }
-    }
-
-    public int Id
-    {
-        get { return this.id; }
+        return id;
     }
 
     public double GetPreco()
@@ -59,6 +49,35 @@ class Produto
             Console.WriteLine("");
         }
     }
+
+    public string GetDescricao()
+    {
+        return descricao;
+    }
+
+    public void SetDescricao(string info)
+    {
+        descricao = info;
+    }
+
+    public int GetQuantidade()
+    {
+        return quantidade;
+    }
+
+    public void SetQuantidade(int valor)
+    {
+        if (valor > 0)
+        {
+            quantidade = valor;
+            Console.WriteLine("");
+        }
+        else
+        {
+            Console.WriteLine("Valor inválido");
+            Console.WriteLine("");
+        }
+    }
 }
 
 class Program
@@ -70,18 +89,12 @@ class Program
         Produto produto2 = new Produto("Kyrie Eleison", 10000, 100);
 
         Console.WriteLine("Produto criado com construtor padrão:\n{0}\n{1}\n{2}\n{3}", 
-            produto1.Desricao, produto1.Quantidade, produto1.GetPreco(), produto1.Id);
+            produto1.GetDescricao(), produto1.GetQuantidade(), produto1.GetPreco(), produto1.GetId());
         Console.WriteLine("");
 
         Console.WriteLine("Produto criado com construtor especifico:\n{0}\n{1}\n{2}\n{3}",
-            produto2.Desricao, produto2.Quantidade, produto2.GetPreco(), produto2.Id);
+            produto2.GetDescricao(), produto2.GetQuantidade(), produto2.GetPreco(), produto2.GetId());
         Console.WriteLine("");
-
-        Console.WriteLine("Insira novo preço para o produto 2: ");
-        double valor = double.Parse(Console.ReadLine());
-        produto2.SetPreco(valor);
-        Console.WriteLine("Produto 2:\n{0}\n{1}\n{2}\n{3}",
-            produto2.Desricao, produto2.Quantidade, produto2.GetPreco(), produto2.Id);
 
     }
 }
