@@ -11,34 +11,26 @@ class Conta
     public Conta(float valor, DateTime data)
     {
         _numero = ++Conta._contador;
-        _saldo = valor;
+        if (valor < 0) { } else { _saldo = valor; }
         _datacriacao = data;
     }
     public DateTime DataCriacao
     {
         get { return _datacriacao; }
     }
-    public float Sacar (float valor)
-    {
-        if (_saldo < valor)
-        {
-            throw new ArgumentException("Quantia de saque não permitida.", "quantia");
-        }
-        
-        _saldo -= valor;
-
-        return _saldo;
-    }
-    public float Depositar(float valor)
-    {
-        _saldo += valor;
-
-        return _saldo;
-    }
     public float Saldo
     {
         get { return _saldo; }
     }
+    public float Sacar
+    {
+        set { if (_saldo > value) { _saldo -= value; } }
+    }
+    public float Depositar
+    {
+        set {  _saldo += value; }
+    }
+    
     public int Numero 
     {
         get { return _numero; }
@@ -67,14 +59,16 @@ class Program
                 Console.WriteLine();
                 Console.WriteLine("Valor:");
                 valor = float.Parse(Console.ReadLine());
-                Console.WriteLine("Saldo atual: " + x.Sacar(valor));
+                x.Sacar = valor;
+                Console.WriteLine("Saldo atual: " + x.Saldo);
                 Console.WriteLine();
                 return true;
             case "3":
                 Console.WriteLine();
                 Console.WriteLine("Valor:");
                 valor = float.Parse(Console.ReadLine());
-                Console.WriteLine("Saldo atual: " + x.Depositar(valor));
+                x.Depositar = valor;
+                Console.WriteLine("Saldo atual: " + x.Saldo);
                 Console.WriteLine();
                 return true;
             case "4":
