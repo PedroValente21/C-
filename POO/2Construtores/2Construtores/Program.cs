@@ -48,12 +48,60 @@ class Produto
     }
  }
 
+class Comida : Produto
+{
+    private DateTime _validade;
+
+    public Comida()
+    {
+        this._validade = DateTime.Now;
+    }
+    public DateTime Validade
+    {
+        get { return _validade; }
+        set { _validade = value; }
+    }
+
+    public DateTime GetValidade()
+    {
+        return this._validade;
+    }
+
+    public void SetValidade(int value)
+    {
+        int dias = value;
+        this._validade = _validade.AddDays(dias);
+    }
+
+}
+
+class Eletronico : Produto
+{
+    private DateTime _garantia;
+    public Eletronico()
+    {
+        this._garantia = DateTime.Now;
+    }
+    public DateTime GetGarantia()
+    {
+        return this._garantia;
+    }
+
+    public void SetGarantia(int value)
+    {
+        int dias = value; 
+        this._garantia = _garantia.AddDays(dias); 
+    }
+}
+
 class Program
 {
     static void Main(string[] args)
     {
         
         Produto produto1 = new Produto();
+        Comida arroz = new Comida();
+        Eletronico celular = new Eletronico();
         Produto produto2 = new Produto("Kyrie Eleison", 10000, 100);
 
         Console.WriteLine("Produto criado com construtor padrão:\n{0}\n{1}\n{2}\n{3}", 
@@ -70,6 +118,30 @@ class Program
 
         Console.WriteLine("Produto 2:\n{0}\n{1}\n{2}\n{3}",
            produto2.Descricao, produto2.Quantidade, produto2.Preco, produto2.Id);
+        Console.WriteLine();
+
+        Console.WriteLine("Comida:\n{0}\n{1}\n{2}\n{3}\n{4}",
+            arroz.Descricao, arroz.Quantidade, arroz.Preco, arroz.Id, arroz.GetValidade());
+        Console.WriteLine();
+
+        Console.WriteLine("Eletronico:\n{0}\n{1}\n{2}\n{3}\n{4}",
+            celular.Descricao, celular.Quantidade, celular.Preco, celular.Id, celular.GetGarantia());
+        Console.WriteLine();
+
+        Console.WriteLine("Insira os dias até o vencimento: ");
+        int vencimento = int.Parse(Console.ReadLine());
+        Console.WriteLine("Insira os dias de garantia: ");
+        int garantia = int.Parse(Console.ReadLine());
+        arroz.SetValidade(vencimento);
+        celular.SetGarantia(garantia);
+
+        Console.WriteLine("Nova data de validade comida:\n{0}",
+            arroz.GetValidade());
+        Console.WriteLine();
+
+        Console.WriteLine("Nova garantia  eletronico:\n{0}",
+            celular.GetGarantia());
+        Console.WriteLine();
 
     }
 }
