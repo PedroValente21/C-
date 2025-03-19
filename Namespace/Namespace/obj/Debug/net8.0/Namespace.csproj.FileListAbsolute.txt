@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.sourcelink.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\refint\Namespace.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Namespace\Namespace\obj\Debug\net8.0\ref\Namespace.dll
