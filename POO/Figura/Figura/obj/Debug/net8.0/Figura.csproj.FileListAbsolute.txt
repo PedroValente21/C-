@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\bin\Debug\net8.0\Figura.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\bin\Debug\net8.0\Figura.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\bin\Debug\net8.0\Figura.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\bin\Debug\net8.0\Figura.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\bin\Debug\net8.0\Figura.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.sourcelink.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\refint\Figura.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\Figura.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Figura\Figura\obj\Debug\net8.0\ref\Figura.dll
