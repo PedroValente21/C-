@@ -33,6 +33,11 @@ class Fisica : Pessoa
         this.cpf = "000.000.000.00";
     }
 
+    public Fisica (string nome, string endereco, string telefone, string cpf) : base (nome, endereco, telefone)
+    {
+        this.cpf = cpf;
+    }
+
     public string CPF
     {
         get { return this.cpf; }
@@ -46,6 +51,10 @@ class Juridica : Pessoa
     public Juridica()
     {
         this.cnpj = "00.000.000/0000-00";
+    }
+    public Juridica(string nome, string endereco, string telefone, string cnpj) : base(nome, endereco, telefone)
+    {
+        this.cnpj = cnpj;
     }
     public string CNPJ
     {
@@ -61,7 +70,7 @@ class Program
         Pessoa pessoa = new Pessoa("Pedro", "Rua Jacutinga", "31997944389");
         Pessoa pessoa1 = new Pessoa();
         Fisica fisica = new Fisica();
-        Juridica juridica = new Juridica();
+        Juridica juridica = new Juridica("Negozio", "Rua 123", "31912341234", "17.828.954/6970-00");
         Console.WriteLine(pessoa.primeiroNome());
         Console.WriteLine(pessoa1.primeiroNome());
         Console.WriteLine("{0} - {1}",fisica.primeiroNome(), fisica.CPF);
