@@ -56,6 +56,10 @@ class Comida : Produto
     {
         this._validade = DateTime.Now;
     }
+    public Comida(string descricao, int quantidade, double preco, DateTime validade) : base (descricao, quantidade, preco)
+    {
+        this._validade = validade;
+    }
     public DateTime Validade
     {
         get { return _validade; }
@@ -82,6 +86,10 @@ class Eletronico : Produto
     {
         this._garantia = DateTime.Now;
     }
+    public Eletronico(string descricao, int quantidade, double preco, DateTime garantia) : base(descricao, quantidade, preco)
+    {
+        this._garantia= garantia;
+    }
     public DateTime GetGarantia()
     {
         return this._garantia;
@@ -100,7 +108,7 @@ class Program
     {
         
         Produto produto1 = new Produto();
-        Comida arroz = new Comida();
+        Comida arroz = new Comida("1 kg", 1, 15.99, DateTime.Now);
         Eletronico celular = new Eletronico();
         Produto produto2 = new Produto("Kyrie Eleison", 10000, 100);
 
