@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.sourcelink.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\refint\Polimorfismo.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Polimorfismo\Polimorfismo\obj\Debug\net8.0\ref\Polimorfismo.dll
