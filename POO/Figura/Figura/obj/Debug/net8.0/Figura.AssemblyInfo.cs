@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Figura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f1ca323a590bab7a7fca50663386a25fe682668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a99e371df6995c0fd71d10478cadebf23b6c13ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Figura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Figura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
