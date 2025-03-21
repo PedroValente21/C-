@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\bin\Debug\net8.0\Event&Delegate.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\bin\Debug\net8.0\Event&Delegate.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\bin\Debug\net8.0\Event&Delegate.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\bin\Debug\net8.0\Event&Delegate.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\bin\Debug\net8.0\Event&Delegate.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.sourcelink.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\refint\Event&Delegate.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\Event&Delegate.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\POO\Event&Delegate\Event&Delegate\obj\Debug\net8.0\ref\Event&Delegate.dll
